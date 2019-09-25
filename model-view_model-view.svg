@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <title>model-view</title>
+  <g>
+    <polygon points="1 3 4 3 4 2 1 2 0 2 0 3 0 6 1 6 1 3"/>
+    <polygon points="1 10 0 10 0 13 0 14 1 14 4 14 4 13 1 13 1 10"/>
+    <polygon points="15 13 12 13 12 14 15 14 16 14 16 13 16 10 15 10 15 13"/>
+    <polygon points="15 2 12 2 12 3 15 3 15 6 16 6 16 3 16 2 15 2"/>
+    <rect x="2" y="4" width="12" height="8"/>
+  </g>
+</svg>
